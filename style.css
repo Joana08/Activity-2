@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color: #4D413D;
+	}
+body {
+     background-color: #70665C;
+	 } 
+
+div.gallery {
+  margin: 15px;
+  float: left;
+  width: 260px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: right;
+}
