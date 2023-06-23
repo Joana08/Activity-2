@@ -10,6 +10,7 @@ div.gallery {
   border: 1px solid #ccc;
   float: left;
   width: 300px;
+  margin: 15px;
 }
 
 div.gallery:hover {
@@ -19,21 +20,4 @@ div.gallery:hover {
 div.gallery img {
   width: 100%;
   height: auto;	
-}
-
-.responsive {
-	padding: 0 6px;
-	float: left;
-	width: 25%;
-}
-@media only screen and (max-width:500px) {.responsive { 
-	width:50x
-	margin: 6px 0					      }
-					  
-@media only screen and (max-width:500px) {.responsive { 
-	width:100px		      }
-.clearfix:after {
-	contenc: "";
-	display: table;
-	clear:both;
 }
