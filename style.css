@@ -21,7 +21,10 @@ div.gallery img {
   height: auto;
 }
 
-hr {
+hr.style1 {
+	color: #CC9966;
+	position: relative;
+	top: 500px;
 	height: 12px;
 	background-image: linear-gradient(-45deg,
 	transparent,
@@ -33,10 +36,4 @@ hr {
 	current Color (75%);
 	background-size: 10px;
 	width: 800px;
-}
-
-.line1 {
-	color: #CC9966;
-	position: relative;
-	top: 500px;
 	}
