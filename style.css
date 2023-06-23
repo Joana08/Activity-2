@@ -30,10 +30,10 @@ hr {
 	height: 12px;
 	background-size: 10px;
 	width: 700px;
+	color: #725E50;
 }
 
 .line1 {
-	color: #725E50;
 	position: absolute;
 	top: 50px;
 	}
