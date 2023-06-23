@@ -28,12 +28,12 @@ div.desc {
 
 hr {
 	height: 12px;
-	background-size: 10px 10px;
+	background-size: 10px;
 	width: 700px;
 }
 
 .line1 {
-	color: #CC9966;
-	position: relative;
+	color: #725E50;
+	position: absolute;
 	top: 50px;
 	}
