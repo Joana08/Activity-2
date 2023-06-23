@@ -9,7 +9,7 @@ body {
 div.gallery {
   border: 1px solid #ccc;
   float: left;
-  width: 280px;
+  width: 300px;
 }
 
 div.gallery:hover {
