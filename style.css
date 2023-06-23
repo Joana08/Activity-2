@@ -30,10 +30,14 @@ hr {
 	height: 12px;
 	background-size: 10px;
 	width: 700px;
-	color: #725E50;
 }
 
-.line1 {
-	position: absolute;
+hr.line1 {
+	color: #6D4C34;
+	top: 50px;
+	}
+
+hr.line2 {
+	color: #6D4C34;
 	top: 50px;
 	}
