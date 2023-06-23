@@ -6,33 +6,18 @@ body {
      background-color: #70665C;
 	 } 
 
-div.gallery1 {
+div.gallery {
   margin: 15px;
   float: left;
-  width: 260px;
+  width: 600px;
 }
 
-div.gallery1:hover {
+div.gallery:hover {
   border: 1px solid #777;
 }
 
-div.gallery1 img {
+div.gallery img {
   width: 100%;
   height: auto;
-  position: relative;
+	
 }
-
-div.gallery2 {
-  margin: 15px;
-  float: left;
-  width: 260px;
-}
-
-div.gallery2:hover {
-  border: 1px solid #777;
-}
-
-div.gallery2 img {
-  width: 100%;
-  height: auto;
-  position: re
