@@ -7,7 +7,7 @@ body {
 	 } 
 
 div.gallery {
-  margin: 15px;
+  border: 1px solid #ccc;
   float: left;
   width: 600px;
 }
